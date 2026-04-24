@@ -3,6 +3,9 @@ This is an template of using cmake to build the stm32 related project.
 
 For this template, STM32F103VET6 have been used.
 
+Serial Wire Enabled
+PC13 Output
+
 ---
 
 # Tested Environment
